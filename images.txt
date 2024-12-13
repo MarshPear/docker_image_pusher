@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 koishijs/koishi:latest
 nextcloud
-emby
 Portainer
