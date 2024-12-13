@@ -7,3 +7,4 @@ xhofe/alist:latest
 koishijs/koishi:latest
 nextcloud
 emby
+Portainer
