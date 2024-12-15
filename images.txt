@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 koishijs/koishi:latest
 nextcloud
-Portainer
+sing-box
