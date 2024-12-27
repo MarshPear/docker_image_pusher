@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 koishijs/koishi:latest
 sing-box/sing-box
+mysql
