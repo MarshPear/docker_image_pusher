@@ -11,3 +11,4 @@ redis
 rabbitmq:management
 elasticsearch:7.9.2
 zendesk/maxwell
+wordpress
